@@ -1,0 +1,13 @@
+pdfminer.six==20220524
+pyresparser==1.0.6
+streamlit==1.44.1
+pandas==2.2.3
+yt-dlp==2025.3.31
+pymysql==1.1.1
+streamlit-tags==1.2.8
+Pillow==11.1.0
+spacy==3.7.4
+wordcloud==1.9.4
+plotly==5.18.0
+scikit-learn==1.4.1.post1
+python-dotenv==1.0.0
